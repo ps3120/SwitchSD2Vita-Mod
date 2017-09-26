@@ -1,0 +1,9 @@
+# Hashes of file build rules.
+5cf57831bfe0c9db3f64b078fe5be9c8 CMakeFiles/copy
+2b4ecdded89ceb0c5f40f4781ef37de3 CMakeFiles/copy_vpk
+8a72465be1475ec71323e91384395933 CMakeFiles/eboot.bin
+26c04c5238843feb5084bda624ce51d0 CMakeFiles/send
+5f62de9c7df327196d6167b3cf1fc349 CMakeFiles/send_vpk
+0da38d01c00f9fce522b2bb83fcb9063 CMakeFiles/switch_sd2vita.vpk
+5d42b6fb1c0e741f9aecbc73d82b9af3 switch_sd2vita.velf
+0aa05f36b59d9d39360856d81adde63d switch_sd2vita.vpk_param.sfo

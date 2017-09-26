@@ -1,0 +1,5 @@
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/plugins/src gamesd imc0/build/CMakeFiles/edit_cache.dir
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/plugins/src gamesd imc0/build/CMakeFiles/gamesd.dir
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/plugins/src gamesd imc0/build/CMakeFiles/rebuild_cache.dir
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/plugins/src gamesd imc0/build/CMakeFiles/gamesd.skprx.dir
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/plugins/src gamesd imc0/build/CMakeFiles/stubs.dir

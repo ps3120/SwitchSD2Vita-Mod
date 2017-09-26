@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/include/Engine.hh
+Utils.h
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/include/Utils.h
+File.hh
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/include/File.hh
+
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/include/File.hh
+Utils.h
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/include/Utils.h
+
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/include/Menu.hh
+Engine.hh
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/include/Engine.hh
+
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/include/Utils.h
+stdio.h
+-
+string.h
+-
+string
+-
+stdlib.h
+-
+psp2/io/fcntl.h
+-
+psp2/io/stat.h
+-
+psp2/ctrl.h
+-
+psp2/kernel/processmgr.h
+-
+psp2/power.h
+-
+vector
+-
+string
+-
+vita2d.h
+-
+
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/src/Engine.cpp
+../include/Engine.hh
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/include/Engine.hh
+
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/src/File.cpp
+../include/File.hh
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/include/File.hh
+
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/src/Menu.cpp
+../include/Menu.hh
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/include/Menu.hh
+
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/src/main.cpp
+../include/Menu.hh
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/include/Menu.hh
+

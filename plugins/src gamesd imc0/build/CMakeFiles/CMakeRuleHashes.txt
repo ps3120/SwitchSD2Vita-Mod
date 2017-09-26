@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+5d32922d6a9e8d4f32ee71f165484c87 CMakeFiles/gamesd.skprx
+c7018bc23c0931673fdfa67166b8ef1b CMakeFiles/stubs
+64f7d305993a428ec4126b706c69a16c gamesd.velf
+222ed3588ffa5b5d368a89392032a9fc stubs.yml

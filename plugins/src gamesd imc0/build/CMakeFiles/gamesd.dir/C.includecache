@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/plugins/src gamesd imc0/main.c
+psp2kern/kernel/cpu.h
+-
+psp2kern/kernel/modulemgr.h
+-
+psp2kern/kernel/sysmem.h
+-
+psp2kern/io/fcntl.h
+-
+stdio.h
+-
+string.h
+-
+taihen.h
+-
+

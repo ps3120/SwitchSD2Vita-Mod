@@ -1,0 +1,9 @@
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/build/CMakeFiles/rebuild_cache.dir
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/build/CMakeFiles/copy_vpk.dir
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/build/CMakeFiles/edit_cache.dir
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/build/CMakeFiles/send_vpk.dir
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/build/CMakeFiles/copy.dir
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/build/CMakeFiles/switch_sd2vita.dir
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/build/CMakeFiles/eboot.bin.dir
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/build/CMakeFiles/switch_sd2vita.vpk.dir
+/c/Users/luigi/Downloads/SwitchSD2Vita-1.2 mod/source/build/CMakeFiles/send.dir
